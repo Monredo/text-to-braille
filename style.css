@@ -48,11 +48,15 @@
 
 body {
   font-family: 'Nimbus Sans L', Tahoma, sans-serif;
-  width: 760px;
   position: absolute;
   left: 50%;
-  margin-left: -380px;
+  margin-left: -370px;
   padding: 20px;
+}
+
+h1 {
+  margin-bottom: 1vh;
+  margin-top: 1vh;
 }
 
 .logo {
@@ -68,5 +72,6 @@ body {
   background: white;
   border: 1px solid black;
   border-radius: 9px;
-  padding: 7px 30px 27px;
+  padding: 27px 30px 27px;
+  width: 40em;
 }
