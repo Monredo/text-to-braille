@@ -67,7 +67,6 @@ body {
 .box {
   background: white;
   border: 1px solid black;
-  box-shadow: 0 4px 10px #afafaf;
   border-radius: 9px;
   padding: 7px 30px 27px;
 }
